@@ -4,6 +4,8 @@ Está aplicación requiere presentar el curriculum vitae del creador del proyect
 -Presentación
 Donde aparece el título, imágen y el cargo al que aspira
 
+https://user-images.githubusercontent.com/38590809/89861204-d54f9400-db6a-11ea-93fb-fc376af26732.png
+
 -Datos Personales
 Se detalla  los  datos esenciales del postulante
 
