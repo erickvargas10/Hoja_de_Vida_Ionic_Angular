@@ -7,6 +7,10 @@ Donde aparece el título, imágen y el cargo al que aspira
 ![1](https://user-images.githubusercontent.com/38590809/89861204-d54f9400-db6a-11ea-93fb-fc376af26732.png)
 
 
+![4](https://user-images.githubusercontent.com/38590809/89861953-89055380-db6c-11ea-916a-d73e60421470.png)
+
+
+
 -Datos Personales:
 Se detalla  los  datos esenciales del postulante
 
